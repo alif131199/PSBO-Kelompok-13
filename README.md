@@ -5,9 +5,9 @@ Mau bikin apa gaes?
 
 ## Ide
 
-| Ide 1 |  |
-| Ide 2 |  |
-| Ide 3 |  |
-| Ide 4 |  |
-| Ide 5 |  |
+| Ide 1 | Bla bla |
+| Ide 2 | Bla bla |
+| Ide 3 | Bla bla |
+| Ide 4 | Bla bla |
+| Ide 5 | Bla bla |
 
