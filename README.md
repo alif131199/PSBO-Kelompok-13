@@ -5,7 +5,7 @@ Mau bikin apa gaes?
 
 ## Ide
 
-| List Ide |
+| List | Ide |
 | ----- | ----- |
 | Ide 1 | Bla bla |
 | Ide 2 | Bla bla |
